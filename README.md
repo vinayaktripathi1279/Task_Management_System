@@ -165,4 +165,4 @@ Through this project I learned:
 
 ## Author
 
-Shaun Joseph
+Vinayak Tripathi
